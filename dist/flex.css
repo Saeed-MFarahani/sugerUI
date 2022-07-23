@@ -1,0 +1,30 @@
+.df{ display: flex }
+
+.ff{ flex: 0 0 }
+.fs{ flex: 0 1 }
+.fg{ flex: 1 0 }
+.fd{ flex: 1 1 }
+
+.aic{ align-items: center }
+.ais{ align-items: start  }
+.aie{ align-items: end    }
+
+.acc{ align-content: center }
+.acs{ align-content: start  }
+.ace{ align-content: end    }
+
+.asc{ align-self: center }
+.ass{ align-self: start  }
+.ase{ align-self: end    }
+
+.jic{ justify-items: center }
+.jis{ justify-items: start  }
+.jie{ justify-items: end    }
+
+.jcc{ justify-content: center }
+.jcs{ justify-content: start  }
+.jce{ justify-content: end    }
+
+.jsc{ justify-self: center }
+.jss{ justify-self: start  }
+.jse{ justify-self: end    }
